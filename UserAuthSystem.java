@@ -1,4 +1,4 @@
-// Update to UserAuthSystem class
+//  UserAuthSystem class
 import java.util.Scanner;
 
 public class UserAuthSystem {
